@@ -1,0 +1,6 @@
+{
+  "name": "rubysec",
+  "version": "0.1.0",
+  "opencli": ">=1.0.0",
+  "description": "RubySec advisory archive commands for OpenCLI"
+}
