@@ -1,7 +1,21 @@
 {
   "name": "opencli-plugin-rubysec",
   "version": "0.1.0",
+  "description": "RubySec advisory archive CLI plugin for OpenCLI",
+  "license": "Apache-2.0",
   "type": "module",
+  "keywords": [
+    "opencli",
+    "rubysec",
+    "security",
+    "cve",
+    "cli"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nullptrKey/opencli-plugin-rubysec.git"
+  },
+  "homepage": "https://github.com/nullptrKey/opencli-plugin-rubysec",
   "peerDependencies": {
     "@jackwener/opencli": ">=1.0.0"
   }
